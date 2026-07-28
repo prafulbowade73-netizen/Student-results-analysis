@@ -1,4 +1,4 @@
-# Student Result Analysis using Pandas
+ # Student Result Analysis using Pandas
 
 ## Project Description
 This project analyzes student marks using the Pandas library in Python.
@@ -28,7 +28,7 @@ python student_result.py
 ## Output
 The program generates:
 - Student result table
-- Topper details
+- Topper student details
 - City-wise average
 - Grade count
 - Ranking
