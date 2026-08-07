@@ -1,4 +1,4 @@
- # Student Result Analysis using Pandas
+ # Student Result Analysis using Pandas and python
 
 ## Project Description
 This project analyzes student marks using the Pandas library in Python.
