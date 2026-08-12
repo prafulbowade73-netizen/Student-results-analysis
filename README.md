@@ -18,6 +18,7 @@ This project analyzes student marks using the Pandas library in Python.
 ## Technologies Used
 - Python
 - Pandas
+- Numpy
 
 ## How to Run
 ```bash
